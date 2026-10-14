@@ -1,0 +1,8 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+CryptoLab_Vault/
+*.enc
+secret.txt

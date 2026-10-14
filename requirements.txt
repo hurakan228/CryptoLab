@@ -1,0 +1,3 @@
+﻿streamlit==1.66.0
+cryptography==50.0.2
+argon2-cffi==25.1.0
